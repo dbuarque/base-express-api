@@ -5,7 +5,6 @@
 * Webpack Build Ready
 * Babel & ES2015
 * Mongoose
-* Bulk import on startup
 * Mocha for tests
 * ESlint
  
