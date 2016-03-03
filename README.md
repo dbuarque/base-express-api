@@ -1,4 +1,4 @@
-# Just a basic express api
+# Just a another express api
 
 ## Features
 
